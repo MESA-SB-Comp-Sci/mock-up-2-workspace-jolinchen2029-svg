@@ -1,0 +1,22 @@
+#main {
+    width: 100vw;
+    height: 100vh;
+}
+
+.box {
+    width: 95vw;
+    height: 45vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.child-box {
+    width: 60%;
+    height: 70%;
+}
+
+.head-text {
+    width: 30%;
+    height: 65%;
+}
